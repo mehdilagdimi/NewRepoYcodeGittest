@@ -21,6 +21,12 @@ Plan
 		
 		1. Créer un répertoire où vous voulez placer votre projet 
 		2. Se déplacer vers le répertoire(path) en question à travers le terminal
+		3. Add files : Git va suivre et considérer ces fichiers  git add .
+		4. Quand satisfait aux modifications on utilise git commit pour sauvegarder une nouvelle version de notre projet (ou état/snapshot)
+			git commit -m " your msg"
+		
+		
+
 
 	
 Pratictal aspect : Example manipulating git to add, commit and push and pull
