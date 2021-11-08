@@ -1,0 +1,26 @@
+Plan 
+	What is Git 		
+		Git est parmi les systmes de " decentralised version control" : Système de suivi, organization et dévelopement d'un projet par 
+		un ou plusieurs contributeurs indépendement.
+		
+	Histoire
+		Crée par Linus Torvalds (LINUX) en 2005
+
+	Pourquoi et Avantages : 
+		Le plus utilisé
+		Free and open source 
+		Developpement efficace et rapide
+		Séparation de l'état actualle fonctionnelle et les états en experimentation
+	What is Github : 
+		Github est la plateforme où l'état ou version finale du projet et les contributions/modifications des individus sur un projet, 
+		se trouvent et sont souvegardées
+
+	General idea on git workflow 
+			Configuration du git : ajout du nom d'utilisateur et l'émail
+	Premier cas : Creation de projet
+		
+		1. Créer un répertoire où vous voulez placer votre projet 
+		2. Se déplacer vers le répertoire(path) en question à travers le terminal
+
+	
+Pratictal aspect : Example manipulating git to add, commit and push and pull
